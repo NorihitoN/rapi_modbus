@@ -5,7 +5,7 @@
 #  get modbus data from CU and save to log file
 #  Norihito Nov.2020
 #
-# Usage: python client_modbus_tcp_ampt.py 
+# Usage: python client_modbus_sample.py 
 #################################################################
 
 import time
